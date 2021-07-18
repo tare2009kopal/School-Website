@@ -1,0 +1,20 @@
+marquee {
+    background-color: lightskyblue;
+    color: white;
+}
+
+#school_video {
+    width: 1331;
+    height: 587;
+}
+img{
+    border-radius: 200px;
+}
+#Contact us{
+    background-color: #d2e8fc;
+}
+.text-capitalize{
+    font-size: 60px;
+    font-style: fantasy;
+}
+
